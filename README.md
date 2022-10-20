@@ -12,8 +12,8 @@
 - [x]  Como o score se distribui entre os visitantes?
 - [x]  Como as variáveis se relacionam entre si?
 - [x]  Como a idade varia em relação ao gênero?
-- [ ]  Como a renda varia em relação ao gênero?
-- [ ]  Como a renda varia em relação ao idade?
+- [x]  Como a renda varia em relação ao gênero?
+- [x]  Como a renda varia em relação ao idade?
 
 - Linguagem de Programação: Python
 - Bibliotecas: Pandas, Seaborn e Matplotlib, Scikit-Learn (usarei em outro projeto)
